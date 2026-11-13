@@ -35,4 +35,27 @@ Questao 4
 A) trim() e toLowerCase() sao usados pra tratamento de dados, respectivamente, um retira os espacos em
 branco e o outro converte todas as letras para minuscula.
 
-B)
+B) Na linha 7 e definido valores de filtro relacionados a variavel lista. E verificado se o titulo inclui 
+o termo usando o include e depois verifica o tipo do elemento e da lista. Como sao duas verificacoes exclusivas 
+e necessario o uso do &&. Dentro da segunda verificacao e usado o || (OU) porque o tipo pode ser generico 
+ou nao. A render livros cria o display pro catalogo
+
+C) 1 - ID (3)
+   2 - ID (1), ID(5)
+   3 - ID(4), ID(6)
+
+D) Como a verificacao de categoria vem depois talvez sejam selecionados livros com nomes parecidos mas que nao
+estejam na categoria certa.
+
+Questao 5
+
+A) O que acontece nas linhas e por Destaque como a chave de pesquisa, o operador ternario verifica se o Des
+taque e ativo ou nao retornando ou "active" ou "".
+
+B){nome: "Brasa", imagem: "img/brasa.png" },
+{nome: "Cometa", imagem: "img/cometa.png" },
+{nome: "Eco", imagem: "img/eco.png" }
+
+Heitor Caetano
+
+ 
